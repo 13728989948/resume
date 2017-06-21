@@ -84,6 +84,16 @@ function getJnTwConHtml() {
 	html += "                       <td class=\"sinJn cell\" valign=\"top\"><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\">" + "\n";
 	html += "                         <tbody>" + "\n";
 	html += "                          <tr>" + "\n";
+	html += "                           <td class=\"skill\">Radis</td>" + "\n";
+	html += "                           <td valign=\"top\"><span class=\"skbg\"><span class=\"skco\">一般</span></span></td>" + "\n";
+	html += "                          </tr>" + "\n";
+	html += "                         </tbody>" + "\n";
+	html += "                        </table></td>" + "\n";
+	html += "                      </tr>" + "\n";
+	html += "                      <tr>" + "\n";
+	html += "                       <td class=\"sinJn cell\" valign=\"top\"><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\">" + "\n";
+	html += "                         <tbody>" + "\n";
+	html += "                          <tr>" + "\n";
 	html += "                           <td class=\"skill\">Varnish</td>" + "\n";
 	html += "                           <td valign=\"top\"><span class=\"skbg\"><span class=\"skco\">一般</span></span></td>" + "\n";
 	html += "                          </tr>" + "\n";
