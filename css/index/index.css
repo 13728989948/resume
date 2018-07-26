@@ -120,24 +120,13 @@ video{margin:0;padding:0;}
 .toggleTxtImg{cursor:pointer;}
 
 @media screen and (max-width:1023.9px) {
-	/*
-	body{font-size:14px;}
+	body{font-size:18px;}
 	.column .plate1
-  ,.column .plate2{font-size:16px;}
- .column .plate1 .f16{font-size:14px;}
- .column .plate1 .f12{font-size:12px;}
- .column .txt3{font-size:14px;}
- .column .name{font-size:24px;}
- .column .guan{font-size:12px;}
- ,.column .cell .skco{font-size:12px;}
- */
-	body{font-size:20px;}
-	.column .plate1
-  ,.column .plate2{font-size:22px;}
- .column .plate1 .f16{font-size:20px;}
- .column .plate1 .f12{font-size:18px;}
- .column .txt3{font-size:20px;}
- .column .name{font-size:30px;}
- .column .guan{font-size:18px;}
- ,.column .cell .skco{font-size:18px;}
+  ,.column .plate2{font-size:20px;}
+ .column .plate1 .f16{font-size:18px;}
+ .column .plate1 .f12{font-size:16px;}
+ .column .txt3{font-size:18px;}
+ .column .name{font-size:28px;}
+ .column .guan{font-size:16px;}
+ ,.column .cell .skco{font-size:16px;}
 }
