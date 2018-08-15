@@ -247,7 +247,7 @@ function getJnTwConHtml() {
 	html += "                         <tbody>" + "\n";
 	html += "                          <tr>" + "\n";
 	html += "                           <td class=\"skill\">Dubbo</td>" + "\n";
-	html += "                           <td valign=\"top\"><span class=\"skbg\"><span class=\"skco\">熟练</span></span></td>" + "\n";
+	html += "                           <td valign=\"top\"><span class=\"skbg\"><span class=\"skco\">一般</span></span></td>" + "\n";
 	html += "                          </tr>" + "\n";
 	html += "                         </tbody>" + "\n";
 	html += "                        </table></td>" + "\n";
